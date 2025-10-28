@@ -46,7 +46,7 @@ We use GitHub’s **default labels** to help organize issues:
 
 ---
 
-## 🧠 About Athegus
+## About Athegus
 
 Athegus develops modular, on-premise automation solutions for robotics and building integration —  
 enabling service robots to operate seamlessly across industries such as healthcare, hospitality, and retail.
