@@ -1,27 +1,58 @@
 # Athegus Public Issues
 
-This repository is used for **tracking bugs, feature requests, and feedback** related to all public Athegus products — including **HospOS**, **RetailOS**, and **HotelOS**.
+Welcome to the **public issue tracker** for all Athegus products — including **HospOS**, **RetailOS**, and **HotelOS**.  
+This repository is used exclusively for **reporting bugs, proposing enhancements, and sharing feedback** related to Athegus software and platform features.
+
+> 💡 This repository does **not** contain any source code.  
+> All discussions here are public and intended for transparent feedback and collaboration.
 
 ---
 
-### 🐞 Reporting a Bug
-If you’ve encountered an issue in any Athegus product, please [open a new issue](https://github.com/Athegus/Public-Issues/issues/new/choose) and include:
-- A clear description of the problem
-- Steps to reproduce it
-- Expected vs actual behavior
-- System or device information
+## 🚀 What you can do here
+
+You can use this repository to:
+
+- 🪲 **Report a bug** in any Athegus product  
+- 💡 **Suggest an improvement** or enhancement    
+- 🗣️ **Provide general feedback** about the Athegus ecosystem
 
 ---
 
-### 💡 Suggesting a Feature
-To propose a new feature or improvement, create a new issue using the **Feature Request** template.
+## 🧭 Before creating a new issue
+
+1. **Search existing issues** to avoid duplicates.  
+   You can use labels like [`bug`](https://github.com/Athegus/Public-Issues/labels/bug) or [`enhancement`](https://github.com/Athegus/Public-Issues/labels/enhancement) to filter.
+
+2. If your topic is not covered, open a new issue using the **“New Issue”** button:  
+   👉 [Create a new issue](https://github.com/Athegus/Public-Issues/issues/new)
+
+3. Please include the following details (if applicable):
+   - Which Athegus product or module is affected (e.g. HospOS, RetailOS)
+   - Steps to reproduce or screenshots
+   - Expected vs actual behavior
+   - Environment details (e.g. version, device, etc.)
 
 ---
 
-### 🗣️ Feedback
-We also welcome general feedback and UX suggestions — just open an issue and label it `feedback`.
+## 🏷️ Labels
+
+We use GitHub’s **default labels** to help organize issues:
+
+| Label | Purpose |
+|-------|----------|
+| `bug` | Unexpected or incorrect behavior |
+| `enhancement` | New feature or requests |
+| `documentation` | Improvements or additions to documentation |
 
 ---
 
-> 🔒 **Note:** This repository does not contain any source code.  
-> All discussions here are public and for transparency and collaboration purposes only.
+## 🧠 About Athegus
+
+Athegus develops modular, on-premise automation solutions for robotics and building integration —  
+enabling service robots to operate seamlessly across industries such as healthcare, hospitality, and retail.
+
+For more information, visit [www.athegus.com](https://www.athegus.com).
+
+---
+
+_Thank you for helping us improve Athegus products by sharing your feedback!_
